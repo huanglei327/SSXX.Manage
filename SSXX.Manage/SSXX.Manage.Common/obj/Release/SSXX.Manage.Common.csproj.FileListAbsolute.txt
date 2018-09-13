@@ -1,0 +1,7 @@
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Common\bin\Release\SSXX.Manage.Common.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Common\bin\Release\SSXX.Manage.Common.pdb
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Common\bin\Release\Newtonsoft.Json.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Common\bin\Release\Newtonsoft.Json.xml
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Common\obj\Release\SSXX.Manage.Common.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Common\obj\Release\SSXX.Manage.Common.pdb
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Common\obj\Release\SSXX.Manage.Common.csprojResolveAssemblyReference.cache

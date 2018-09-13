@@ -1,0 +1,5 @@
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Models\bin\Debug\SSXX.Manage.Models.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Models\bin\Debug\SSXX.Manage.Models.pdb
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Models\obj\Debug\SSXX.Manage.Models.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Models\obj\Debug\SSXX.Manage.Models.pdb
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Models\obj\Debug\SSXX.Manage.Models.csprojResolveAssemblyReference.cache

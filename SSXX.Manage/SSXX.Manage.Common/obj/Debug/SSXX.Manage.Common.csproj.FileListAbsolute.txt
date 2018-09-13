@@ -1,0 +1,7 @@
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Common\bin\Debug\SSXX.Manage.Common.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Common\bin\Debug\SSXX.Manage.Common.pdb
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Common\bin\Debug\Newtonsoft.Json.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Common\bin\Debug\Newtonsoft.Json.xml
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Common\obj\Debug\SSXX.Manage.Common.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Common\obj\Debug\SSXX.Manage.Common.pdb
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.Common\obj\Debug\SSXX.Manage.Common.csprojResolveAssemblyReference.cache

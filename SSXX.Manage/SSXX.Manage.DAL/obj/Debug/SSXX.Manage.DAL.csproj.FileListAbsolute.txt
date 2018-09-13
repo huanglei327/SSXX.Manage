@@ -1,0 +1,11 @@
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.DAL\bin\Debug\SSXX.Manage.DAL.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.DAL\bin\Debug\SSXX.Manage.DAL.pdb
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.DAL\bin\Debug\SSXX.Manage.Common.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.DAL\bin\Debug\SSXX.Manage.Models.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.DAL\bin\Debug\SSXX.Manage.Common.pdb
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.DAL\bin\Debug\SSXX.Manage.Models.pdb
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.DAL\obj\Debug\SSXX.Manage.DAL.csprojResolveAssemblyReference.cache
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.DAL\obj\Debug\SSXX.Manage.DAL.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.DAL\obj\Debug\SSXX.Manage.DAL.pdb

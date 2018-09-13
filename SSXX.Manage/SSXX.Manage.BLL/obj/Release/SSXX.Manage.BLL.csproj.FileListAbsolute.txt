@@ -1,0 +1,13 @@
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.BLL\bin\Release\SSXX.Manage.BLL.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.BLL\bin\Release\SSXX.Manage.BLL.pdb
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.BLL\bin\Release\SSXX.Manage.Common.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.BLL\bin\Release\SSXX.Manage.DAL.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.BLL\bin\Release\SSXX.Manage.Models.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.BLL\bin\Release\Newtonsoft.Json.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.BLL\bin\Release\SSXX.Manage.Common.pdb
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.BLL\bin\Release\SSXX.Manage.DAL.pdb
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.BLL\bin\Release\SSXX.Manage.Models.pdb
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.BLL\bin\Release\Newtonsoft.Json.xml
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.BLL\obj\Release\SSXX.Manage.BLL.csprojResolveAssemblyReference.cache
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.BLL\obj\Release\SSXX.Manage.BLL.dll
+D:\HLwork\SSXXINFO\SSXX.Manage\SSXX.Manage.BLL\obj\Release\SSXX.Manage.BLL.pdb

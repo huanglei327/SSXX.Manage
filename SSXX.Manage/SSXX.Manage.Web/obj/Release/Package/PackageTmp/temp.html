@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+
+    <input type="button" value="点我" id="btn_dianwo" />
+    <script type="text/javascript" src="https://lib.sinaapp.com/js/jquery/2.0/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#btn_dianwo").on("click", function () {
+                $.ajax({
+                    url: "api/Login/WxLogin",
+                    data: { "code": '023ISYuQ1hvXya1S4ZuQ1I9lvQ1ISYuO' },
+                    type: 'POST',
+                    success: function (data) {
+                        document.getElementById("modes").innerHTML = "";
+                        $.each(data, function (key, val) {
+                            var str = val.UserName + ': ' + val.PassWord;
+                            $('<li/>', { html: str }).appendTo($('#modes'));
+                        });
+                    }
+                }).fail(
+            function (xhr, textStatus, err) {
+                alert('Error: ' + err);
+            });
+            })
+        })
+    </script>
+</body>
+</html>
