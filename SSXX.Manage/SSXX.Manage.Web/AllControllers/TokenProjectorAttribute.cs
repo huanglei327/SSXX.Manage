@@ -14,7 +14,6 @@ namespace SSXX.Manage.Web.AllControllers
     {
         public override void OnAuthorization(HttpActionContext actionContext)
         {
-            Log.WriterLog("进来了");
             //如果用户方位的Action带有AllowAnonymousAttribute，则不进行授权验证
             if (actionContext.ActionDescriptor.GetCustomAttributes<AllowAnonymousAttribute>().Any())
             {

@@ -15,9 +15,6 @@ namespace SSXX.Manage.Web.Controllers.WxControolers
     {
         public object QueryById([FromBody]Newtonsoft.Json.Linq.JObject obj)
         {
-
-            //WxUserInfo userinfo = (WxUserInfo)HttpContext.Current.Session["userInfo"];
-            //Log.WriterLog(userinfo.openid+"=========12313123");
             if (obj["userid"] == null || obj["userid"].ToString() == "")
             {
                 return ResponseStr.ToJsonError("参数错误");
